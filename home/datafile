@@ -1,0 +1,3 @@
+Note : When more than file name is specified in argument then command will display four-columnar output for all individual files plus one extra row displaying total number of lines,
+ words and characters of all the files specified in argument, followed by keyword total. Options: 1. -l: This option prints the number of lines present in a file.
+ With this option wc command displays two-columnar output, 1st column shows number of lines present in a file and 2nd itself represent the file name.
